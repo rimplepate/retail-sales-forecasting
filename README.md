@@ -1,6 +1,5 @@
 🛍️ Retail Sales Forecasting using Machine Learning
 
-📖 Overview
 A retail store chain with multiple outlets across the country faced inventory management issues due to mismatched demand and supply.  
 This project uses **data analytics and forecasting models** to predict future sales, enabling better inventory and demand planning.
 
