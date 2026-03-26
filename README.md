@@ -1,6 +1,7 @@
 🛍️ Retail Sales Forecasting using Machine Learning
 
 A retail store chain with multiple outlets across the country faced inventory management issues due to mismatched demand and supply.  
+
 This project uses **data analytics and forecasting models** to predict future sales, enabling better inventory and demand planning.
 
 🎯 Objectives
@@ -48,8 +49,16 @@ The dataset (`walmart_sales.csv`) contains information such as:
   - Holidays & promotions
   - Seasonal temperature shifts
   - Regional fuel price variations
+ 
+📈Business Recommendation:-
+Use sales forecasts to optimize inventory levels and reduce overstock or stockouts.
+Increase stock for high-demand seasonal periods to capture maximum revenue.
+Implement store-level demand planning instead of a one-size-fits-all approach.
+Align promotions and discounts with low-demand periods to boost sales.
+Monitor key external factors (fuel price, holidays, economy) to adjust demand planning dynamically.
+Automate forecasting models to enable real-time decision-making for supply chain teams.
 
-📌 Future Enhancements
+📌Future Enhancements
 - Incorporate external economic indicators.
 - Use deep learning models (LSTM) for time series forecasting.
 - Automate monthly retraining pipeline.
